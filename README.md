@@ -1,6 +1,9 @@
-# Salesforce DX Project: Next Steps
+# Conference App
+ This is a Salesforce app that allows you book events, event speakers and most importantly, let you add event attendees.
+Other functionalities include, prevent event speakers double booking.
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Salesforce DX Project: Next step,
+You can pull this project and run it 
 
 ## How Do You Plan to Deploy Your Changes?
 
